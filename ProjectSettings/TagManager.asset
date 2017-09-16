@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Strat
+  - Fin
+  - Enemy
+  - Frenzy
+  - Sky
+  - UI
+  - Coin
+  - Coin_text
+  - PewPew
+  - projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Car_base
+  - Wheel_base
+  - Enemy_base
+  - Enemy_wheel
+  - Sky
+  - Finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 3593880265
+    locked: 0
+  - name: Player
+    uniqueID: 1388630543
+    locked: 0
+  - name: Enemy
+    uniqueID: 180558013
+    locked: 0

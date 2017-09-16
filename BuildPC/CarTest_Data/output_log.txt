@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6670 (ID=0x6758)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   15.200.1062.1004
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.122 seconds
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\_U\Learn\SmokoKo\BuildPC\CarTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.110533 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.732489 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 818.
+Total: 0.624800 ms (FindLiveObjects: 0.111466 ms CreateObjectMapping: 0.022977 ms MarkObjects: 0.476177 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.319022 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 818.
+Total: 0.550977 ms (FindLiveObjects: 0.107066 ms CreateObjectMapping: 0.022000 ms MarkObjects: 0.407733 ms  DeleteObjects: 0.008800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.528755 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 818.
+Total: 0.580800 ms (FindLiveObjects: 0.111466 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.429733 ms  DeleteObjects: 0.010266 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.380133 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 818.
+Total: 0.547066 ms (FindLiveObjects: 0.102177 ms CreateObjectMapping: 0.022000 ms MarkObjects: 0.408711 ms  DeleteObjects: 0.008311 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.243733 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 0.400888 ms (FindLiveObjects: 0.054755 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.257644 ms  DeleteObjects: 0.065511 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d78 -> priority: 1 
+  Thread -> id: 1ec4 -> priority: 1 
